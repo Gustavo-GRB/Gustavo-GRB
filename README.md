@@ -1,9 +1,9 @@
 ## Eae, tranquilo? 👋
-##### Meu nome é Gustavo Rocha
-##### Atualmente estou estudando e migrando para área da programação.👨‍💻 
+#### Meu nome é Gustavo Rocha
+#### Atualmente estou estudando e migrando para área da programação.👨‍💻 
 
 <p align="left">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height="200" widht="200"> 
+  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" height="200" widht="200"> 
 </p>
 
 #
