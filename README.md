@@ -19,7 +19,6 @@
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![.Net](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 #
 ## Outras Habilidades
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql) 
